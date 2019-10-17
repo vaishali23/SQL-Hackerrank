@@ -1,0 +1,8 @@
+select (if) count(distinct()) case () when then () else () end sd ()
+from () join() union() a horizontal version of join()
+where(and)(or) 
+group by 
+having
+order by 
+limit
+offset
